@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">My ApplicationRecyclerView</string>
+    <string name="item1">BENZ</string>
+    <string name="item2">BMW</string>
+    <string name="item3">TOYOTA</string>
+    
+    <string-array name="names">
+        <item>@string/item1</item>
+        <item>@string/item2</item>
+        <item>@string/item3</item>
+    </string-array>
+    
+    <string name="color1">Blue</string>
+    <string name="color2">Black</string>
+    <string name="color3">Red</string>
+    
+    <string-array name="colors">
+        <item>@string/color1</item>
+        <item>@string/color2</item>
+        <item>@string/color3</item>
+    </string-array>
+
+    <string name="model1">2012</string>
+    <string name="model2">2016</string>
+    <string name="model3">2018</string>
+
+    <string-array name="models">
+        <item>@string/model1</item>
+        <item>@string/model2</item>
+        <item>@string/model3</item>
+    </string-array>
+</resources>
